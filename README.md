@@ -55,11 +55,7 @@ Cross-platform movie app using React Native and TMDB API.
 ## 📊 GitHub Contribution Graph
 *(This uses a different, more stable provider)*
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmayapradhan07&theme=react-dark&area=true&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=🚀+My+GitHub+Contribution+Graph+Live!;🔥+Always+Learning+New+Things;💻+Coding+Everyday+With+Passion">
+  <img src="https://raw.githubusercontent.com/chinmayapradhan07/chinmayapradhan07/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
